@@ -1,2 +1,9 @@
-# Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 알고리즘 문제 풀이 📚
+
+매일 알고리즘 문제를 풀고 기록하는 저장소입니다.
+
+## 🎯 목표
+
+- 꾸준한 알고리즘 문제 풀이
+- Python과 JavaScript를 활용한 문제 해결 능력 향상
+- 다양한 알고리즘과 자료구조 학습

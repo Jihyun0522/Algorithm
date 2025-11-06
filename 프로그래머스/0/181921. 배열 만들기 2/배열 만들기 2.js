@@ -3,7 +3,6 @@ function solution(l, r) {
     
     for (let num = l; num <= r; num++) {
         const strNum = String(num);
-        
         if (!/[^05]/.test(strNum)) {
             answer.push(num);
         }

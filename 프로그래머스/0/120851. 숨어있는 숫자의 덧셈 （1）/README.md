@@ -1,10 +1,10 @@
 # [level 0] 숨어있는 숫자의 덧셈 (1) - 120851 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120851?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120851?language=javascript) 
 
 ### 성능 요약
 
-메모리: 9.42 MB, 시간: 0.03 ms
+메모리: 31.5 MB, 시간: 0.13 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 10일 22:46:02
+2025년 12월 10일 22:47:01
 
 ### 문제 설명
 

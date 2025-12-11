@@ -1,10 +1,10 @@
 # [level 0] 중복된 문자 제거 - 120888 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript) 
 
 ### 성능 요약
 
-메모리: 9.3 MB, 시간: 0.01 ms
+메모리: 33.4 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 12일 00:31:55
+2025년 12월 12일 00:34:05
 
 ### 문제 설명
 

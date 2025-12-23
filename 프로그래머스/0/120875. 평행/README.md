@@ -1,10 +1,10 @@
 # [level 0] 평행 - 120875 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120875?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120875?language=javascript) 
 
 ### 성능 요약
 
-메모리: 9.18 MB, 시간: 0.00 ms
+메모리: 33.6 MB, 시간: 0.09 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 23일 23:25:23
+2025년 12월 23일 23:27:41
 
 ### 문제 설명
 

@@ -1,10 +1,10 @@
 # [level 2] N-Queen - 12952 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12952) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=javascript) 
 
 ### 성능 요약
 
-메모리: 9.15 MB, 시간: 9655.78 ms
+메모리: 35.5 MB, 시간: 224.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 10일 22:22:21
+2026년 02월 10일 22:28:27
 
 ### 문제 설명
 

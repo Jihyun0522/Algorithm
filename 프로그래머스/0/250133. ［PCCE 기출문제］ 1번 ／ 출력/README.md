@@ -1,10 +1,10 @@
 # [level 0] [PCCE 기출문제] 1번 / 출력 - 250133 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/250133?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/250133?language=java) 
 
 ### 성능 요약
 
-메모리: 7.31 MB, 시간: 11.67 ms
+메모리: 63.9 MB, 시간: 138.62 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 16일 22:52:36
+2026년 04월 16일 22:53:30
 
 ### 문제 설명
 

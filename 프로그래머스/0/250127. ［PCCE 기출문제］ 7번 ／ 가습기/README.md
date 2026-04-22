@@ -1,10 +1,10 @@
 # [level 0] [PCCE 기출문제] 7번 / 가습기 - 250127 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/250127?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/250127?language=python3) 
 
 ### 성능 요약
 
-메모리: 91.9 MB, 시간: 0.05 ms
+메모리: 9.01 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 22일 21:21:43
+2026년 04월 22일 21:22:26
 
 ### 문제 설명
 

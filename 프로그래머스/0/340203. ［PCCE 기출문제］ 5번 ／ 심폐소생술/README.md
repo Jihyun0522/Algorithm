@@ -1,10 +1,10 @@
 # [level 0] [PCCE 기출문제] 5번 / 심폐소생술 - 340203 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340203) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340203?language=java) 
 
 ### 성능 요약
 
-메모리: 9.15 MB, 시간: 0.01 ms
+메모리: 82.5 MB, 시간: 0.51 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 25일 23:44:34
+2026년 04월 25일 23:46:09
 
 ### 문제 설명
 
